@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Centipede 3D Animation
 
 An interactive 3D centipede animation that follows mouse movement, built with Three.js.
@@ -99,3 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 BAREQ MAHER- [@yourtwitter](https://twitter.com/yourtwitter)
 
 Project Link: [https://github.com/yourusername/centipede-3d-animation](https://github.com/yourusername/centipede-3d-animation)
+=======
+# interactive-3D-centipede
+An interactive 3D centipede animation that follows mouse movement, built with Three.js
+>>>>>>> f20ea547a9f1c32cfdc5642b1e83ca6897a3c595
