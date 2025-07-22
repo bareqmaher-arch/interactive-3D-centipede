@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Centipede 3D Animation
+ Centipede 3D Animation
 
 An interactive 3D centipede animation that follows mouse movement, built with Three.js.
 
@@ -26,7 +25,7 @@ Technologies Used
 
  Live Demo
 
-[View live demo here](https://yourusername.github.io/centipede-3d-animation/)
+[View live demo here](https://fastidious-moxie-f5fea5.netlify.app/)
 
  Local Installation
 
@@ -85,22 +84,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Inspired by natural centipede movement
 - Built with Three.js library
-- Thanks to all contributors
+- Thanks to all contributors --<Karrarmaher>
 
 ## Contact
 
-BAREQ MAHER- [@yourtwitter](https://twitter.com/yourtwitter)
+BAREQ MAHER- [@GitHub](https://github.com/bareqmaher-arch/)
 
-Project Link: [https://github.com/yourusername/centipede-3d-animation](https://github.com/yourusername/centipede-3d-animation)
+Project Link: [https://github.com/yourusername/centipede-3d-animation](https://github.com/bareqmaher-arch/centipede-3d-animation)
 =======
 # interactive-3D-centipede
 An interactive 3D centipede animation that follows mouse movement, built with Three.js
->>>>>>> f20ea547a9f1c32cfdc5642b1e83ca6897a3c595
